@@ -1,2 +1,5 @@
 # mediaTracker
-Rep for media tracking web-app
+Repo for media tracking web-app
+
+App-server - Wildfly 9
+
